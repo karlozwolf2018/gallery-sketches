@@ -37,6 +37,18 @@
       "description_en": "Continuous line with no correction: 0.38 gel and dense freehand hatching."
     },
     {
+      "id": "estilografos",
+      "label": "Estilógrafo",
+      "short": "Estilógrafo",
+      "label_en": "Technical Pen",
+      "short_en": "Technical Pen",
+      "color": "#38bdf8",
+      "accent": "#a5e3ff",
+      "icon": "✒",
+      "description": "Tinta técnica de precisión para líneas limpias y tramas detalladas.",
+      "description_en": "Precision technical ink for clean lines and detailed hatching."
+    },
+    {
       "id": "marcadores",
       "label": "Marcadores",
       "short": "Color",
